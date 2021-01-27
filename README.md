@@ -1,1 +1,3 @@
-# hgnu github team
+## 开始
+
+您好，这里是黄冈师范学院github主页。

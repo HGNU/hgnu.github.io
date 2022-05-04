@@ -1,3 +1,4 @@
-## 开始
+## HGNU ACM TEAM
 
-您好，这里是黄冈师范学院github主页。
+HGNUOJ：http://acm.hgnu.edu.cn
+学校官网：http://www.hgnu.edu.cn
